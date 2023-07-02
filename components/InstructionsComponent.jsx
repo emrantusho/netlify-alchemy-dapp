@@ -6,36 +6,36 @@ export default function InstructionsComponent() {
 		<div className={styles.container}>
 			<header className={styles.header_container}>
 				<h1>
-					Money in<span>Crypto</span>
+					Send Money in<span>-Crypto</span>
 				</h1>
 				<p>
-					Get started by editing this page in{" "}
-					<span>/pages/index.js</span>
+					Meet me for any problem using this email address...{" "}
+					<span>web3emran.nft@ud.me</span>
 				</p>
 			</header>
 
 			<div className={styles.buttons_container}>
 				<a
 					target={"_blank"}
-					href={"https://createweb3dapp.alchemy.com/#components"}
+					href={"https://t.me/jockermockerx"}
 				>
 					<div className={styles.button}>
 						{/* <img src="https://static.alchemyapi.io/images/cw3d/Icon%20Medium/lightning-square-contained-m.svg" width={"20px"} height={"20px"} /> */}
-						<p>Add Components</p>
+						<p>Telegram</p>
 					</div>
 				</a>
 				<a
 					target={"_blank"}
-					href={"https://createweb3dapp.alchemy.com/#templates"}
+					href={"https://wa.me/+8801893441537"}
 				>
 					<div className={styles.button}>
 						{/* <img src="https://static.alchemyapi.io/images/cw3d/Icon%20Medium/lightning-square-contained-m.svg" width={"20px"} height={"20px"} /> */}
-						<p>Explore Templates</p>
+						<p>Whatsapp</p>
 					</div>
 				</a>
 				<a
 					target={"_blank"}
-					href={"https://docs.alchemy.com/docs/create-web3-dapp"}
+					href={"https://docs.tushar.sbs"}
 				>
 					<div className={styles.button}>
 						<img
