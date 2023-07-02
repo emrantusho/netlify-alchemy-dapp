@@ -52,7 +52,7 @@ export default function InstructionsComponent() {
 					<img
 						id="badge-button"
 						style={{ width: "240px", height: "53px" }}
-						src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQQw4IWDEImF2nEfKYCa0s2C84TFP3uQRSP1iCxNYv4BQS5sfH43Uc7h3CRMBcBfKG9LS-k0meFbtYHbZ66uigW8Qb7n7XODrz6sqfupi7gYVjdirevrm77EH5zM7_elGgYp4q_vdRybIpDpp00__udo0GKauRqP1epCNofAENffSLCzy9lv1rmW7a7A/s1000/Untitled%20design%20(6)%20(1).png"
+						src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEij7zSW9UYpcy3ayZUe58QqwEQR2OHaheCcFdYd3ZtxE083ZxrUx4rtL8BhL9VkirV-aTMqL2q2ms1hgzaWoAwEIVG5-ag4_txjwb3zF9M-0jI-ELqBqntIwpCugUrFRIvLNdh2b23dz8ngZC8wwkbo93QgOwZRl6cgYE57i01oTd5td74S2vdaC7SN_w/s1200/Untitled%20(312%20%C3%97%20150%20px)%20(400%20%C3%97%20150%20px)%20(400%20%C3%97%20132%20px)%20(400%20%C3%97%20120%20px).png"
 						alt="Alchemy Supercharged"
 					/>
 				</a>
