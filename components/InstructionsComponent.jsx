@@ -48,29 +48,29 @@ export default function InstructionsComponent() {
 				</a>
 			</div>
 			<div className={styles.footer}>
-				<a href="https://alchemy.com/?a=create-web3-dapp" target={"_blank"}>
+				<a href="https://web9.0.tushar.sbs" target={"_blank"}>
 					<img
 						id="badge-button"
 						style={{ width: "240px", height: "53px" }}
-						src="https://static.alchemyapi.io/images/marketing/badgeLight.png"
+						src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQQw4IWDEImF2nEfKYCa0s2C84TFP3uQRSP1iCxNYv4BQS5sfH43Uc7h3CRMBcBfKG9LS-k0meFbtYHbZ66uigW8Qb7n7XODrz6sqfupi7gYVjdirevrm77EH5zM7_elGgYp4q_vdRybIpDpp00__udo0GKauRqP1epCNofAENffSLCzy9lv1rmW7a7A/s1000/Untitled%20design%20(6)%20(1).png"
 						alt="Alchemy Supercharged"
 					/>
 				</a>
 				<div className={styles.icons_container}>
 					<div>
 						<a
-							href="https://github.com/alchemyplatform/create-web3-dapp"
+							href="https://facebook.com/etusho"
 							target={"_blank"}
 						>
-							Leave a star on Github
+							Follow Me on Facebook
 						</a>
 					</div>
 					<div>
 						<a
-							href="https://twitter.com/AlchemyPlatform"
+							href="https://twitter.com/emrantusho"
 							target={"_blank"}
 						>
-							Follow us on Twitter
+							Follow Me on Twitter
 						</a>
 					</div>
 				</div>
