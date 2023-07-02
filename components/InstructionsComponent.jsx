@@ -9,7 +9,7 @@ export default function InstructionsComponent() {
 					Send Money in<span>-Crypto</span>
 				</h1>
 				<p>
-					Meet me for any problem using this email address...{" "}
+					Send me your problems here...{" "}
 					<span>web3emran.nft@ud.me</span>
 				</p>
 			</header>
