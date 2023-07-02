@@ -4,7 +4,7 @@ export default function Navbar() {
 	return (
 		<nav className={styles.navbar}>
 			<a href="https://web9.0.tushar.sbs" target={"_blank"}>
-				<img className={styles.alchemy_logo} src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUzhd_5cGV_h1TISh2fe4UNJjz0416K1JbjTjNtCIPz5QmN50k_cx8rLiHIdshjh_yX0H_XgkXuGcoIju-ZroJzeOdS1Yq99Pd9OjuB1hPXPhpmgj_LI5dxY4Gqq9i5knlyTsg4nI6KcX6lT_zfj-0L0Fe494q6VL83dLVWW5RdLsXYgHKwrWv3WSQwg/s135-rw/WhiteBoard%20(4).webp"></img>
+				<img className={styles.alchemy_logo} src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqr0DOduikGfYctZzZGrU97Zefu8A6QQ3xvORtCMwxDbjOK24gI3K53eqxvpTJSuRPISWLMo81mB2JIyGgvlC7NVOuSmxONAdSsdaqAs7QIrgbJnJs7uJt3yXnrTKyCQKbUbT301bjF3dSf1S1sk8sLwqYlmoM2pfjPfdE3XjIIMOLfmjXpaEXJbgNsg/s728-rw/Whiteboard%20(3).webp"></img>
 			</a>
 			<ConnectButton></ConnectButton>
 		</nav>
